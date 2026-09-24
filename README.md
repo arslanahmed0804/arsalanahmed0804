@@ -1,6 +1,6 @@
 # 💫 About Me:
 * 🌐 Full Stack Web Development<br>* 📱 Mobile App Development with Flutter<br>* ⚛️ React.js Frontend Development<br>* 🟢 Node.js & Express.js Backend Development<br>* 🐘 PHP & Laravel Development<br>* 🔌 REST API Development<br>* 🗄️ MongoDB & MySQL Database Development<br>* 🛠️ Git, GitHub & Postman<br>
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arsalan-ahmed-071125325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arslanahmedjutt7@gmail.com) 
